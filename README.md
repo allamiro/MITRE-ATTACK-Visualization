@@ -6,10 +6,7 @@
 Our project is aiming towards visualizing MITRE ATT&CK ™  detection and attack techniques through the use of diagrams and relational models.
 The project will be a collection of all these relation models and diagrams.
 
-### Prerequisites
 
-
-## Built With
 
 
 
@@ -20,7 +17,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 
 ## Authors
-
+* **Tamer Suliman** - *Initial work* - [Allamiro-Github](https://github.com/allamiro)
 
 ## License
 
@@ -29,3 +26,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
+
+
+## References
+1. 
