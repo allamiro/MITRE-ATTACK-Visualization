@@ -17,7 +17,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 
 ## Authors
-* **Tamer Suliman** - *Initial work* - [Allamiro-Github](https://github.com/allamiro)
+* **Tamir Suliman** - *Initial work* - [Allamiro-Github](https://github.com/allamiro)
 
 ## License
 
