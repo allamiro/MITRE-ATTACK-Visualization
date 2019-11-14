@@ -1,2 +1,2 @@
-# MITRE_ATT-CK-_Visualization
-MITRE ATT&amp;CK™ Visualization
+# MITRE ATT&CK  Visualization
+MITRE ATT&CK ™ Visualization
