@@ -36,4 +36,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## References
 1. https://www.mitre.org/sites/default/files/publications/16-3713-finding-cyber-threats%20with%20att%26ck-based-analytics.pdf
+2. https://www.researchgate.net/profile/Ge_Chu2/publication/338491379_Ontology-Based_Automation_of_Penetration_Testing/links/5e5a4a21a6fdccbeba0bbf0a/Ontology-Based-Automation-of-Penetration-Testing.pdf
 
