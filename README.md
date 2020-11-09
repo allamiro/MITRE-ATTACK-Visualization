@@ -9,10 +9,10 @@ The project will be a collection of all these relation models and diagrams.
 
 
 1. Behavioral Visualization - Identification
- 1.1 Common Behavior tactics focus
- 1.2 Adverse impact behavior
- 1.3 Behaviors Data Availability 
- 1.4 Behaviors that indicates maclicous behaviors
+   a. Common Behavior tactics focus
+   b. Adverse impact behavior
+   c.  Behaviors Data Availability 
+   d. Behaviors that indicates maclicous behaviors
  
  2. Data Collection 
 
