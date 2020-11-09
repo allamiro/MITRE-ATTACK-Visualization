@@ -8,7 +8,13 @@ The project will be a collection of all these relation models and diagrams.
 
 
 
-
+1. Behavioral Visualization - Identification
+ 1.1 Common Behavior tactics focus
+ 1.2 Adverse impact behavior
+ 1.3 Behaviors Data Availability 
+ 1.4 Behaviors that indicates maclicous behaviors
+ 
+ 2. Data Collection 
 
 
 ## Versioning
@@ -29,4 +35,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 ## References
-1. 
+1. https://www.mitre.org/sites/default/files/publications/16-3713-finding-cyber-threats%20with%20att%26ck-based-analytics.pdf
+
