@@ -38,3 +38,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 1. https://www.mitre.org/sites/default/files/publications/16-3713-finding-cyber-threats%20with%20att%26ck-based-analytics.pdf
 2. https://www.researchgate.net/profile/Ge_Chu2/publication/338491379_Ontology-Based_Automation_of_Penetration_Testing/links/5e5a4a21a6fdccbeba0bbf0a/Ontology-Based-Automation-of-Penetration-Testing.pdf
 
+
+https://cambridge-intelligence.com/use-cases/cybersecurity/
+https://attack.mitre.org/
+https://secviz.org/content/mapping-dns-with-graphviz.html
+https://graphviz.org/doc/info/attrs.html
+http://web.cs.ucla.edu/~lixia/papers/02RAID.pdf
+https://en.wikipedia.org/wiki/Security_visualisation
