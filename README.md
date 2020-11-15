@@ -45,3 +45,6 @@ https://secviz.org/content/mapping-dns-with-graphviz.html
 https://graphviz.org/doc/info/attrs.html
 http://web.cs.ucla.edu/~lixia/papers/02RAID.pdf
 https://en.wikipedia.org/wiki/Security_visualisation
+
+https://github.com/BloodHoundAD/BloodHound
+https://mitre-attack.github.io/attack-navigator/
