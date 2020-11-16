@@ -4,7 +4,7 @@
 ## Introduction
 
 Our project is aiming towards visualizing MITRE ATT&CK ™  detection and attack techniques through the use of diagrams and relational models.
-The project will be a collection of all these relation models and diagrams.
+The project aims to create a collection of all these relation models and diagram to help understand and improve enterprise security posture.
 
 
 
